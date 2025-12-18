@@ -1,0 +1,25 @@
+# Java
+*.class
+
+
+# Logs
+*.log
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# VS Code
+.vscode/
+
+
+# Build folders
+/bin/
+/out/
+/target/
+
+
+# Chat history
+chat_history.txt

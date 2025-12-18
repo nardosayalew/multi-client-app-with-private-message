@@ -1,4 +1,4 @@
-# 💬 Java Socket Chat Application
+# Java Socket Chat Application
 
 An **expert-level Java Socket Chat Application** built using **Java Sockets, Multithreading, and Swing GUI**.
 
